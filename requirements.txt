@@ -1,0 +1,7 @@
+langchain_text_splitters==0.0.1
+openai==1.23.6
+pandas==2.2.2
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+streamlit==1.26.0
+XlsxWriter==3.2.0

@@ -1,0 +1,58 @@
+span.css-10trblm.e1nzilvr1 {
+    text-align: center;
+    margin-top: -65px;
+}
+
+textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+section {
+    background-image: linear-gradient(to bottom, #05327a, #e6e6e6);
+}
+
+section {
+    background: #ADEFD1FF;  
+    /* background: #8b6508; */
+}
+
+.css-10trblm.e1nzilvr1 {
+    color: #000033;
+}
+
+h2 .css-10trblm.e1nzilvr1 {
+    color: #000;
+}
+
+p {
+    color: #000;
+    margin: 1px;
+    font-weight: 800;
+}
+
+.css-1v9nbok.ef3psqc11{
+    background-color: rgb(2, 3, 70);
+}
+
+.css-x78sv8.e1nzilvr5 p{
+    color: aliceblue;
+}
+
+hr {
+    margin-top: -10px;
+    background-color: #000;
+    border: 2px solid #000;
+}
+
+
+.object-key-val {
+    background: #ADEFD1FF;
+}
+
+.object-key-val span {
+    color: #000;
+    font-size: medium;
+    font-weight: 800;
+}
