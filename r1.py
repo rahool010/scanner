@@ -40,6 +40,8 @@ def extract_facts(text):
     1. Name of the candidate
     2. Qualification (most recent education)
     3. Passout Year
+    4. Mobile Number
+    5. Email ID
     4. Skills
 
     Once the pdf files are uploaded, go through each pdf file one by one and generate the mentioned information.
@@ -68,6 +70,14 @@ def extract_facts(text):
                     'Qualification': {
                         'type':'string',
                         'description':'Qualification'
+                    },
+                    'Mobile Number': {
+                        'type':'string',
+                        'description':'Mobile Number'
+                    },
+                    'Email ID': {
+                        'type':'string',
+                        'description':'Email ID'
                     },
                     'Skills': {
                         'type':'string',
